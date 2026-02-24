@@ -46,4 +46,4 @@ Je suis actuellement à la recherche d'un **[premier emploi]** à partir de **[S
 
 * 💼 **LinkedIn:** [Ton profil LinkedIn](Lien vers ton linkedin)
 * 🐱 **GitHub:** [Ton profil GitHub](https://github.com/deexissss)
-* ✉️ **Email:** [ton.email@exemple.com](jehaes.tom@gmail.com)
+* ✉️ **Email:** (jehaes.tom@gmail.com)
