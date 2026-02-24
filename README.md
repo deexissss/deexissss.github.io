@@ -44,6 +44,6 @@ Voici une sélection de mes projets les plus significatifs :
 
 Je suis actuellement à la recherche d'un **[premier emploi]** à partir de **[Septembre]**. N'hésitez pas à me contacter !
 
-* 💼 **LinkedIn:** [Ton profil LinkedIn](Lien vers ton linkedin)
-* 🐱 **GitHub:** [Ton profil GitHub](https://github.com/deexissss)
-* ✉️ **Email:** (jehaes.tom@gmail.com)
+* 💼 **LinkedIn:** [linkedIn]
+* 🐱 **GitHub:** [Deexissss profile](https://github.com/deexissss)
+* ✉️ **Email:** [jehaes.tom@gmail.com]
