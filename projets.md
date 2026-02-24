@@ -1,3 +1,7 @@
+---
+layout: default
+title: Mes Projets
+---
 <style>
 /* Style de la grille pour aligner les projets */
 .project-grid {
