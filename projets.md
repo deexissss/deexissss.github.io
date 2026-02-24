@@ -56,19 +56,19 @@ title: Mes Projets
 
 <div class="project-grid">
 
-  <a href="./minishell.md" class="project-card">
+  <a href="./minishell.html" class="project-card">
     <h3>🐚 Minishell</h3>
     <p>Recréation d'un mini-shell UNIX. Gestion des processus, des pipes et des redirections.</p>
     <div class="tags">C • Bash • Unix</div>
   </a>
 
-  <a href="./cub3d.md" class="project-card">
+  <a href="./cub3d.html" class="project-card">
     <h3>🎮 Cub3D</h3>
     <p>Création d'un moteur 3D en Ray-Casting. Gestion des textures et collisions.</p>
     <div class="tags">C • MiniLibX • Math</div >
   </a>
 
-  <a href="./webserv.md" class="project-card">
+  <a href="./webserv.html" class="project-card">
     <h3>🌐 Webserv</h3>
     <p>Écriture d'un serveur HTTP complet en C++ 98 capable de gérer plusieurs connexions.</p>
     <div class="tags">C++ • Réseau • HTTP</div>
