@@ -30,7 +30,7 @@ Passionné(e) par le développement logiciel et l'architecture système, vous tr
 
 <div align="center">
   <br>
-  <a href="./projets.md" class="btn-portfolio">
+  <a href="./projets.html" class="btn-portfolio">
     🚀 Découvrir tous mes projets en détail
   </a>
   <br><br>
