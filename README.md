@@ -23,7 +23,7 @@ Voici une sélection de mes projets les plus significatifs :
 * **Description :** Recréation d'un mini-shell UNIX (un interpréteur de commandes en Bash). Gestion des processus, des pipes (`|`), des redirections (`>`, `<`) et des variables d'environnement.
 * **Technologies :** C
 * **Note :** 100/100 (ou 115/100 si bonus)
-* 🔗 [Voir le code source]([Lien vers ton repository GitHub de Minishell](https://github.com/deexissss/minishell))
+* 🔗 [Voir le code source](https://github.com/deexissss/minishell))
 
 ### 🎮 Cub3D (ou so_long)
 * **Description :** Création d'un moteur 3D en Ray-Casting (similaire à Wolfenstein 3D) à l'aide de la MiniLibX. Gestion des textures, des collisions et des événements clavier.
