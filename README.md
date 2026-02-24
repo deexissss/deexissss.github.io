@@ -25,28 +25,25 @@ Voici une sélection de mes projets les plus significatifs :
 * **Note :** 100/100 (ou 115/100 si bonus)
 * 🔗 [Voir le code source](https://github.com/deexissss/minishell))
 
-### 🎮 Cub3D (ou so_long)
+### 🎮 Cub3D 
 * **Description :** Création d'un moteur 3D en Ray-Casting (similaire à Wolfenstein 3D) à l'aide de la MiniLibX. Gestion des textures, des collisions et des événements clavier.
 * **Technologies :** C, Mathématiques (Trigonométrie)
-* 🔗 [Voir le code source](Lien vers ton repository)
+* 🔗 [Voir le code source]()
 
 ### 🌐 Webserv (ou ft_transcendence)
 * **Description :** Écriture d'un serveur HTTP complet en C++ 98 capable de gérer plusieurs connexions simultanées de manière non-bloquante (avec `epoll` ou `select`).
 * **Technologies :** C++, Réseau, Sockets HTTP
-* 🔗 [Voir le code source](Lien vers ton repository)
+* 🔗 [Voir le code source](https://github.com/deexissss/webserv)
 
 ### 📚 Libft
 * **Description :** Ma toute première bibliothèque en C. Recréation des fonctions standard de la libc (`printf`, `strlen`, manipulation de listes chaînées, etc.) que j'utilise dans tous mes autres projets.
-* 🔗 [Voir le code source](Lien vers ton repository)
+* 🔗 [Voir le code source](https://github.com/deexissss/libft)
 
-*(N'hésite pas à adapter cette liste avec tes propres projets : push_swap, pipex, get_next_line, philosophers...)*
-
----
 
 ## 📫 Me Contacter
 
-Je suis actuellement à la recherche d'un **[stage de X mois / contrat d'alternance / premier emploi]** à partir de **[Mois/Année]**. N'hésitez pas à me contacter !
+Je suis actuellement à la recherche d'un **[premier emploi]** à partir de **[Septembre]**. N'hésitez pas à me contacter !
 
 * 💼 **LinkedIn:** [Ton profil LinkedIn](Lien vers ton linkedin)
 * 🐱 **GitHub:** [Ton profil GitHub](https://github.com/deexissss)
-* ✉️ **Email:** [ton.email@exemple.com](mailto:ton.email@exemple.com)
+* ✉️ **Email:** [ton.email@exemple.com](jehaes.tom@gmail.com)
