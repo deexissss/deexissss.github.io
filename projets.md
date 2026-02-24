@@ -71,9 +71,32 @@ title: Mes Projets
   top: 15px;
   text-decoration: none;
 }
+  /* --- 3. BOUTON RETOUR --- */
+.btn-retour {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #f3f4f6; /* Gris très clair */
+  color: #333333 !important;
+  text-decoration: none;
+  font-weight: bold;
+  border-radius: 8px;
+  border: 1px solid #d1d5db;
+  transition: all 0.2s;
+  margin-bottom: 20px;
+}
+.btn-retour:hover {
+  background-color: #e5e7eb; /* Gris un peu plus foncé au survol */
+  transform: translateY(-2px);
+  text-decoration: none;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+}
 .modal-close:hover { color: #cc0000; text-decoration: none; }
 </style>
-
+<div>
+  <a href="./index.html" class="btn-retour">
+    🏠 Retour à l'accueil
+  </a>
+</div>
 <div class="project-grid">
 
   <a href="#minishell" class="project-card">
