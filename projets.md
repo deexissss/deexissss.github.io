@@ -110,6 +110,27 @@ title: Mes Projets
     <p>Création d'un moteur 3D en Ray-Casting. Gestion des textures et collisions.</p>
     <div class="tags">C • MiniLibX • Math</div>
   </a>
+    <a href="#so-long" class="project-card">
+    <h3>🎮 So Long</h3>
+    <p>Création d'un jeu en 2D en C. Gestion des textures et collisions.</p>
+    <div class="tags">C • MiniLibX • Math</div>
+  </a>
+    <a href="#Push Swap" class="project-card">
+    <h3>🎮 Push Swap</h3>
+    <p>Creation d'un algorithm de tri en utilisant 2 stack et des operations limitées</p>
+    <div class="tags">C • Algo • Math</div>
+  </a>
+    <a href="#WebServer" class="project-card">
+    <h3>🎮 WebServer</h3>
+    <p>Création d'un serveur local en c++ afin de créer un site internet.</p>
+    <div class="tags">C++ • Socket • Web</div>
+  </a>
+  <a href="#Net Practice" class="project-card">
+    <h3>🎮 Net Practice</h3>
+    <p>Introduction au networking</p>
+    <div class="tags">Network • Protocole • Subnetting</div>
+  </a>
+  
 
 </div>
 
