@@ -1,6 +1,6 @@
 # 👨‍💻 Portfolio de Tjehaes
 
-Bienvenue sur mon portfolio ! Je suis actuellement étudiant(e) à **[42 Luxembourg]**, une école de programmation innovante basée sur l'apprentissage en peer-to-peer (sans professeur) et la réalisation de projets concrets.
+Bienvenue sur mon portfolio ! Je suis actuellement étudiant(e) à **42 Luxembourg**, une école de programmation innovante basée sur l'apprentissage en peer-to-peer (sans professeur) et la réalisation de projets concrets.
 
 Passionné(e) par le développement logiciel et l'architecture système, vous trouverez ici les principaux projets que j'ai réalisés durant mon cursus.
 
@@ -23,7 +23,7 @@ Voici une sélection de mes projets les plus significatifs :
 * **Description :** Recréation d'un mini-shell UNIX (un interpréteur de commandes en Bash). Gestion des processus, des pipes (`|`), des redirections (`>`, `<`) et des variables d'environnement.
 * **Technologies :** C
 * **Note :** 100/100
-* 🔗 [Voir le code source](https://github.com/deexissss/minishell))
+* 🔗 [Voir le code source](https://github.com/deexissss/minishell)
 
 ### 🎮 Cub3D 
 * **Description :** Création d'un moteur 3D en Ray-Casting (similaire à Wolfenstein 3D) à l'aide de la MiniLibX. Gestion des textures, des collisions et des événements clavier.
@@ -44,8 +44,8 @@ Voici une sélection de mes projets les plus significatifs :
 
 ## 📫 Me Contacter
 
-Je suis actuellement à la recherche d'un **[premier emploi]** à partir de **[Septembre]**. N'hésitez pas à me contacter !
+Je suis actuellement à la recherche d'un **premier emploi** à partir de **Septembre**. N'hésitez pas à me contacter !
 
-* 💼 **LinkedIn:** [linkedIn]
+* 💼 **LinkedIn:** [linkedIn]()
 * 🐱 **GitHub:** [Deexissss profile](https://github.com/deexissss)
-* ✉️ **Email:** [jehaes.tom@gmail.com]
+* ✉️ **Email:** [jehaes.tom@gmail.com](jehaes.tom@gmail.com)
