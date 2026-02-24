@@ -22,17 +22,19 @@ Voici une sélection de mes projets les plus significatifs :
 ### 🐚 Minishell
 * **Description :** Recréation d'un mini-shell UNIX (un interpréteur de commandes en Bash). Gestion des processus, des pipes (`|`), des redirections (`>`, `<`) et des variables d'environnement.
 * **Technologies :** C
-* **Note :** 100/100 (ou 115/100 si bonus)
+* **Note :** 100/100
 * 🔗 [Voir le code source](https://github.com/deexissss/minishell))
 
 ### 🎮 Cub3D 
 * **Description :** Création d'un moteur 3D en Ray-Casting (similaire à Wolfenstein 3D) à l'aide de la MiniLibX. Gestion des textures, des collisions et des événements clavier.
 * **Technologies :** C, Mathématiques (Trigonométrie)
+*  **Note :** 100/100
 * 🔗 [Voir le code source]()
 
 ### 🌐 Webserv (ou ft_transcendence)
 * **Description :** Écriture d'un serveur HTTP complet en C++ 98 capable de gérer plusieurs connexions simultanées de manière non-bloquante (avec `epoll` ou `select`).
 * **Technologies :** C++, Réseau, Sockets HTTP
+* **Note :** projet en cours
 * 🔗 [Voir le code source](https://github.com/deexissss/webserv)
 
 ### 📚 Libft
