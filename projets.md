@@ -186,6 +186,6 @@ title: Mes Projets
       <li><strong>Notions acquises :</strong> Algorithm, Math.</li>
     </ul>
     <br>
-    <a href="(https://github.com/deexissss/push_swap)" target="_blank" style="background:#333; color:white; padding:10px 15px; border-radius:5px; text-decoration:none;">Voir le code source sur GitHub</a>
+    <a href="https://github.com/deexissss/push_swap" target="_blank" style="background:#333; color:white; padding:10px 15px; border-radius:5px; text-decoration:none;">Voir le code source sur GitHub</a>
   </div>
 </div>
