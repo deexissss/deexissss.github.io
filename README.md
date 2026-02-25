@@ -32,8 +32,8 @@ Passionné(e) par le développement logiciel et l'architecture système, vous tr
 ## 🛠️ Mes Compétences
 
 Grâce à la pédagogie de 42, j'ai développé de solides compétences techniques et d'adaptation :
-* **Langages :** C, C++, Bash, Javascript, html, css
-* **Outils & DevOps :** Git, Make, Docker, Linux/Unix
+* **Langages :** C, C++, Bash, Javascript, Html, CSS
+* **Outils & DevOps :** Git, Make, Docker, Linux/Unix, Virtual Machine
 * **Savoir-être :** Résolution de problèmes, autonomie, travail en équipe (peer-evaluation)
 
 ---
