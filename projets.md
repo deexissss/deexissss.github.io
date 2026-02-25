@@ -111,7 +111,7 @@ title: Mes Projets
     <div class="tags">C • MiniLibX • Math</div>
   </a>
     <a href="#so-long" class="project-card">
-    <h3>🎮 So Long</h3>
+    <h3>👾​ So Long</h3>
     <p>Création d'un jeu en 2D en C. Gestion des textures et collisions.</p>
     <div class="tags">C • MiniLibX • Math</div>
   </a>
@@ -158,6 +158,34 @@ title: Mes Projets
       <li><strong>Notions acquises :</strong> MiniLibX, gestion des événements clavier, dessin pixel par pixel.</li>
     </ul>
     <br>
-    <a href="LIEN_VERS_TON_GITHUB_CUB3D" target="_blank" style="background:#333; color:white; padding:10px 15px; border-radius:5px; text-decoration:none;">Voir le code source sur GitHub</a>
+    <a href="https://github.com/deexissss/cub3d" target="_blank" style="background:#333; color:white; padding:10px 15px; border-radius:5px; text-decoration:none;">Voir le code source sur GitHub</a>
+  </div>
+</div>
+
+<div id="so-long" class="modal-window">
+  <div class="modal-content">
+    <a href="#" title="Fermer" class="modal-close">✖</a>
+    <h2 style="color: #333;">👾​ So long : En détail</h2>
+    <p>Le but de ce projet 42 était de coder un petit jeu en 2d en utilisant la minilibx</p>
+    <ul>
+      <li><strong>Défis :</strong> Parsing de map ainsi que la découvert d'une nouvelle librairie (MiniLibX).</li>
+      <li><strong>Notions acquises :</strong> MiniLibX, gestion des évènements clavier, affichage d'image.</li>
+    </ul>
+    <br>
+    <a href="https://github.com/deexissss/so-long" target="_blank" style="background:#333; color:white; padding:10px 15px; border-radius:5px; text-decoration:none;">Voir le code source sur GitHub</a>
+  </div>
+</div>
+
+<div id="Push Swap" class="modal-window">
+  <div class="modal-content">
+    <a href="#" title="Fermer" class="modal-close">✖</a>
+    <h2 style="color: #333;">🤖​ Push Swap : En détail</h2>
+    <p>Le but de ce projet 42 était de coder un algorithm de tri en utilisant 2 stack et seulement des operations limitées</p>
+    <ul>
+      <li><strong>Défis :</strong> Découvert des stacks, création d'un algorithm de tri.</li>
+      <li><strong>Notions acquises :</strong> Algorithm, Math.</li>
+    </ul>
+    <br>
+    <a href="(https://github.com/deexissss/push_swap)" target="_blank" style="background:#333; color:white; padding:10px 15px; border-radius:5px; text-decoration:none;">Voir le code source sur GitHub</a>
   </div>
 </div>
